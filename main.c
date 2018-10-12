@@ -1,8 +1,8 @@
 /*
 	COMP10050 Assignment 3: Othello/Reversi Game
 	
-	Player 1: Sng Hong Yao 17205050
-	Player 2: Liew Xuan 17200573
+	Player 1: @bryansng 
+	Player 2: @LxEmily 
 */
 #include <stdio.h>
 #include <stdlib.h>
